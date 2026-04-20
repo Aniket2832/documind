@@ -44,4 +44,4 @@ npm run dev
 Open `http://localhost:5173`
 
 ## Demo
-![DocuMind Demo](assets/demo.gif)
+![DocuMind Demo](frontend/src/assets/demo.gif)
