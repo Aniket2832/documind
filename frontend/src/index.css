@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f8fafc;
+  color: #1a202c;
+  min-height: 100vh;
+}
+
+button { cursor: pointer; border: none; outline: none; }
+textarea, input { outline: none; }
